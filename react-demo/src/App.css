@@ -1,0 +1,8 @@
+header, main {
+  background-color: aliceblue;
+  border: 5px solid blue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
